@@ -7,6 +7,10 @@ export default function Home() {
     <main
       className="flex min-h-screen flex-col items-center justify-between p-24"
     >
+      <div className="text-center mb-8">
+        <h1 className="text-3xl font-bold">Hello, my name is Sheki!</h1>
+      </div>
+      
       <div
         className="z-10 w-full max-w-5xl items-center justify-between font-mono
           text-sm lg:flex"
