@@ -135,7 +135,7 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          <p className="Sheki was here">
             Explore starter templates for Next.js.
           </p>
         </a>
