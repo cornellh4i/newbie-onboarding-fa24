@@ -7,7 +7,7 @@ export default function Home() {
     <main
       className="flex min-h-screen flex-col items-center justify-between p-24"
     >
-      <div
+            <div
         className="z-10 w-full max-w-5xl items-center justify-between font-mono
           text-sm lg:flex"
       >
@@ -127,7 +127,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Templates{" "}
+            Templates{"Tim "}
             <span
               className="inline-block transition-transform
                 group-hover:translate-x-1 motion-reduce:transform-none"
